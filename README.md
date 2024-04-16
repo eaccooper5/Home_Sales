@@ -81,6 +81,7 @@ The query from step 6 is run on the parquet temporary table, and the run time is
 The "home_sales" temporary table is uncached and verified. (10 points)
 
 ## Collaboration
+Completed by Erin Cooper with code referenced from class materials and assistance with query syntax and phrasing from Rhythm Ahir (for the 4 bedroom query) and assitance with syntax for cached tables from AskBCS.
 
 ## Contact
 If there are any questions or concerns, I can be reached at:
